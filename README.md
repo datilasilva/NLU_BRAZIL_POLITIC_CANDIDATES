@@ -15,3 +15,5 @@ When my “study group” used phrases with words containing “demon” or “p
 Ironies were disregarded and, in general, the response was “neutral” teaching me that we still need to teach machines a sense of humor.
 
 It's Friday, let's play!
+
+![IMG](https://github.com/datilasilva/NLU_BRAZIL_POLITIC_CANDIDATES/blob/main/PROJECT%20IN%20NLU.png)
